@@ -1,3 +1,3 @@
-https://weronikakingrzegorek.github.io/goit-markup-hw-06/
+https://weronikakingrzegorek.github.io/goit-markup-hw-05/
 
 <!-- corrected page address -->
